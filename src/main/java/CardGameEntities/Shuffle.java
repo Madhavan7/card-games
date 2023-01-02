@@ -1,2 +1,4 @@
-package CardGameEntities;public interface Shuffle {
+package CardGameEntities;
+
+public interface Shuffle {
 }
